@@ -20,8 +20,7 @@ from aiogram.utils.formatting import (
 )
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 
-# TOKEN = getenv("BOT_TOKEN")
-TOKEN = '7778298935:AAFwY6DOFkIWQfWyaxBLUwqKrispTIUP640'
+TOKEN = getenv("BOT_TOKEN")
 
 
 @dataclass
